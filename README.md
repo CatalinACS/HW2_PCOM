@@ -1,4 +1,4 @@
-# HW2_PCOM
+# Application-Layer Protocol Implementation
 
 This project illustrates the TCP and Multiplexing concepts and their applications in C. The program is divided into several components and files, each solving a specific problem. An attempt was made to implement the assignment as efficiently as possible, ensuring that only the necessary amount of data is transmitted for each message sent by the client or the server.
 
